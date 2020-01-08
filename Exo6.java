@@ -2,6 +2,9 @@ package exo6;
 
 public class Exo6 {
 
+	// commentaires rajoutés
+
+
 	/**
 	 * @param args
 	 */
